@@ -15,8 +15,7 @@ git clone https://github.com/muhammedag/browser-landing-page
 ````
 
 ## Usage
--You need one https://openweathermap.org/ API Key.
--You can change your API Key from .env file.
+You need one https://openweathermap.org/ API Key. You can change your API Key from .env file.
 
 ## Screenshot From App
 ![img](https://i.ibb.co/mDVq07x/Screenshot-1.png)

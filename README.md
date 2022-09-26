@@ -2,7 +2,7 @@
 
 I wrote this app because I have some spare time :)
 
-## Class Docs
+## App Docs
 + HTML5
 + CSS3
 + Javascript
